@@ -1,0 +1,33 @@
+c:\users\wilfreeed\documents\visual studio 2015\Projects\MQ2\MQ2\bin\Debug\MQ2.exe.config
+c:\users\wilfreeed\documents\visual studio 2015\Projects\MQ2\MQ2\bin\Debug\MQ2.exe
+c:\users\wilfreeed\documents\visual studio 2015\Projects\MQ2\MQ2\bin\Debug\MQ2.pdb
+c:\users\wilfreeed\documents\visual studio 2015\Projects\MQ2\MQ2\obj\Debug\MQ2.Form1.resources
+c:\users\wilfreeed\documents\visual studio 2015\Projects\MQ2\MQ2\obj\Debug\MQ2.Properties.Resources.resources
+c:\users\wilfreeed\documents\visual studio 2015\Projects\MQ2\MQ2\obj\Debug\MQ2.csproj.GenerateResource.Cache
+c:\users\wilfreeed\documents\visual studio 2015\Projects\MQ2\MQ2\obj\Debug\MQ2.exe
+c:\users\wilfreeed\documents\visual studio 2015\Projects\MQ2\MQ2\obj\Debug\MQ2.pdb
+C:\Users\WilFreeeD\documents\visual studio 2015\Projects\MQ2\MQ2\obj\Debug\MQ2.csprojResolveAssemblyReference.cache
+E:\Document\Visual Studio 2015\Projects\MQ2\MQ2\bin\Debug\MQ2.exe.config
+E:\Document\Visual Studio 2015\Projects\MQ2\MQ2\obj\Debug\MQ2.exe
+E:\Document\Visual Studio 2015\Projects\MQ2\MQ2\obj\Debug\MQ2.pdb
+E:\Document\Visual Studio 2015\Projects\MQ2\MQ2\bin\Debug\MQ2.exe
+E:\Document\Visual Studio 2015\Projects\MQ2\MQ2\bin\Debug\MQ2.pdb
+E:\Document\Visual Studio 2015\Projects\MQ2\MQ2\obj\Debug\MQ2.csprojResolveAssemblyReference.cache
+E:\Document\Visual Studio 2015\Projects\MQ2\MQ2\obj\Debug\MQ2.Form1.resources
+E:\Document\Visual Studio 2015\Projects\MQ2\MQ2\obj\Debug\MQ2.Properties.Resources.resources
+E:\Document\Visual Studio 2015\Projects\MQ2\MQ2\obj\Debug\MQ2.csproj.GenerateResource.Cache
+E:\Document\MQ2\MQ2\bin\Debug\MQ2.exe.config
+E:\Document\MQ2\MQ2\obj\Debug\MQ2.exe
+E:\Document\MQ2\MQ2\obj\Debug\MQ2.pdb
+E:\Document\MQ2\MQ2\bin\Debug\MQ2.exe
+E:\Document\MQ2\MQ2\bin\Debug\MQ2.pdb
+E:\Document\MQ2\MQ2\obj\Debug\MQ2.csprojResolveAssemblyReference.cache
+E:\Document\MQ2\MQ2\obj\Debug\MQ2.Form1.resources
+E:\Document\MQ2\MQ2\obj\Debug\MQ2.Properties.Resources.resources
+E:\Document\MQ2\MQ2\obj\Debug\MQ2.csproj.GenerateResource.Cache
+E:\Document\MQ2\MQ2\bin\Debug\CircularProgressBar.dll
+E:\Document\MQ2\MQ2\bin\Debug\WinFormAnimation.dll
+E:\Document\MQ2\MQ2\bin\Debug\MySql.Data.dll
+D:\Document\Visual Studio 2015\Projects\MQ2\MQ2\bin\Debug\MQ2.exe.config
+D:\Document\Visual Studio 2015\Projects\MQ2\MQ2\obj\Debug\MQ2.exe
+D:\Document\Visual Studio 2015\Projects\MQ2\MQ2\obj\Debug\MQ2.pdb
